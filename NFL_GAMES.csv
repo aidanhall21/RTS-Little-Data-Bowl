@@ -1,0 +1,286 @@
+id,game_key,season_type,season,week,date_time,away_team,away_id,home_team,home_id,point_spread,over_under,canceled,status,sportsdata_id,channel,forecast_temp_low,forecast_temp_high,forecast_description,forecast_wind_chill,forecast_wind_speed,home_team_money_line,away_team_money_line,stadium_type,stadium_playing_surface,stadium_name,stadium_city,stadium_state,stadium_country,updated_at,league,rts_id
+266,202110133,1,2021,1,9/9/2021 20:20,DAL,9,TB,33,-9,52.5,FALSE,Final,17682,NBC,79,82,Broken Clouds,79,9,-439,341,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,30:46.1,nfl,0
+267,202110102,1,2021,1,9/12/2021 13:00,PHI,26,ATL,2,-3.5,48.5,FALSE,Final,17683,FOX,70,73,Clear Sky,70,3,-178,148,RetractableDome,Artificial,Mercedes-Benz Stadium,Atlanta,GA,USA,30:46.2,nfl,0
+268,202110104,1,2021,1,9/12/2021 13:00,PIT,28,BUF,4,-6.5,48,FALSE,Final,17684,CBS,58,65,Light Rain,65,6,-282,231,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,30:46.3,nfl,0
+269,202110105,1,2021,1,9/12/2021 13:00,NYJ,24,CAR,5,-4,45,FALSE,Final,17690,CBS,68,69,Clear Sky,69,5,-188,156,Outdoor,Artificial,Bank of America Stadium,Charlotte,NC,USA,30:46.3,nfl,0
+270,202110107,1,2021,1,9/12/2021 13:00,MIN,20,CIN,7,3,47.5,FALSE,F/OT,17685,FOX,70,73,Clear Sky,73,5,128,-153,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:46.4,nfl,0
+271,202110111,1,2021,1,9/12/2021 13:00,SF,31,DET,11,9.5,46,FALSE,Final,17686,FOX,66,69,Overcast Clouds,69,5,331,-428,Dome,Artificial,Ford Field,Detroit,MI,USA,30:46.4,nfl,0
+272,202110113,1,2021,1,9/12/2021 13:00,JAX,15,HOU,13,3.5,45.5,FALSE,Final,17691,CBS,75,78,Light Rain,78,8,142,-170,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,30:46.5,nfl,0
+273,202110114,1,2021,1,9/12/2021 13:00,SEA,30,IND,14,3,48.5,FALSE,Final,17688,FOX,69,72,Few Clouds,72,8,129,-155,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:46.6,nfl,0
+274,202110134,1,2021,1,9/12/2021 13:00,ARI,1,TEN,34,-2.5,54,FALSE,Final,17687,CBS,71,72,Clear Sky,71,4,-146,123,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:46.6,nfl,0
+275,202110135,1,2021,1,9/12/2021 13:00,LAC,29,WAS,35,-2,45.5,FALSE,Final,17689,CBS,70,73,Few Clouds,73,5,-129,109,Outdoor,Grass,FedEx Field,Landover,MD,USA,30:46.7,nfl,0
+276,202110116,1,2021,1,9/12/2021 16:25,CLE,8,KC,16,-5.5,54.5,FALSE,Final,17692,CBS,75,75,Clear Sky,75,13,-240,197,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:46.8,nfl,0
+277,202110121,1,2021,1,9/12/2021 16:25,MIA,19,NE,21,-3.5,43.5,FALSE,Final,17693,CBS,67,69,Light Rain,69,5,-184,153,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:46.8,nfl,0
+278,202110122,1,2021,1,9/12/2021 16:25,GB,12,NO,22,3.5,49,FALSE,Final,17694,FOX,75,76,Scattered Clouds,75,4,162,-192,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,30:46.8,nfl,0
+279,202110123,1,2021,1,9/12/2021 16:25,DEN,10,NYG,23,2.5,41.5,FALSE,Final,17695,FOX,74,75,Broken Clouds,75,9,120,-142,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:46.9,nfl,0
+280,202110132,1,2021,1,9/12/2021 20:20,CHI,6,LAR,32,-9,46.5,FALSE,Final,17696,NBC,72,72,Clear Sky,72,4,-418,326,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:47.0,nfl,0
+281,202110125,1,2021,1,9/13/2021 20:15,BAL,3,LV,25,3.5,50,FALSE,F/OT,17697,ESPN,88,92,Clear Sky,92,10,147,-177,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,30:47.0,nfl,0
+282,202110235,1,2021,2,9/16/2021 20:20,NYG,23,WAS,35,-4.5,41.5,FALSE,Final,17698,NFLN,71,71,Overcast Clouds,71,6,-202,170,Outdoor,Grass,FedEx Field,Landover,MD,USA,30:47.1,nfl,0
+283,202110205,1,2021,2,9/19/2021 13:00,NO,22,CAR,5,3,44.5,FALSE,Final,17706,FOX,71,71,Overcast Clouds,71,5,130,-153,Outdoor,Artificial,Bank of America Stadium,Charlotte,NC,USA,30:47.2,nfl,0
+284,202110206,1,2021,2,9/19/2021 13:00,CIN,7,CHI,6,-1.5,44.5,FALSE,Final,17699,FOX,75,76,Overcast Clouds,76,11,-125,106,Outdoor,Grass,Soldier Field,Chicago,IL,USA,30:47.2,nfl,0
+285,202110208,1,2021,2,9/19/2021 13:00,HOU,13,CLE,8,-13.5,48,FALSE,Final,17700,CBS,69,69,Scattered Clouds,69,10,-741,525,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,30:47.3,nfl,0
+286,202110214,1,2021,2,9/19/2021 13:00,LAR,32,IND,14,4,48.5,FALSE,Final,17701,FOX,71,72,Light Rain,72,6,169,-201,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:47.3,nfl,0
+287,202110215,1,2021,2,9/19/2021 13:00,DEN,10,JAX,15,6,45.5,FALSE,Final,17707,CBS,76,76,Light Rain,76,2,221,-270,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,30:47.4,nfl,0
+288,202110219,1,2021,2,9/19/2021 13:00,BUF,4,MIA,19,3.5,48,FALSE,Final,17702,FOX,81,85,Light Rain,81,3,156,-187,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,30:47.4,nfl,0
+289,202110224,1,2021,2,9/19/2021 13:00,NE,21,NYJ,24,5.5,43,FALSE,Final,17703,CBS,63,65,Clear Sky,63,3,195,-237,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:47.5,nfl,0
+290,202110226,1,2021,2,9/19/2021 13:00,SF,31,PHI,26,3,49,FALSE,Final,17704,FOX,61,63,Clear Sky,61,3,125,-149,Outdoor,Grass,Lincoln Financial Field,Philadelphia,PA,USA,30:47.5,nfl,0
+291,202110228,1,2021,2,9/19/2021 13:00,LV,25,PIT,28,-5.5,46.5,FALSE,Final,17705,CBS,64,65,Scattered Clouds,65,4,-226,187,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,30:47.6,nfl,0
+292,202110201,1,2021,2,9/19/2021 16:05,MIN,20,ARI,1,-3.5,50.5,FALSE,Final,17708,FOX,89,90,Clear Sky,89,5,-194,163,RetractableDome,Grass,State Farm Stadium,Glendale,AZ,USA,30:47.6,nfl,0
+293,202110233,1,2021,2,9/19/2021 16:05,ATL,2,TB,33,-13,52,FALSE,Final,17709,FOX,79,81,Overcast Clouds,79,4,-756,543,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,30:47.7,nfl,0
+294,202110229,1,2021,2,9/19/2021 16:25,DAL,9,LAC,29,-3,55,FALSE,Final,17710,CBS,66,68,Clear Sky,66,4,-158,133,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:47.7,nfl,0
+295,202110230,1,2021,2,9/19/2021 16:25,TEN,34,SEA,30,-6.5,54,FALSE,F/OT,17711,CBS,52,55,Light Rain,55,4,-281,225,Outdoor,Artificial,Lumen Field,Seattle,WA,USA,30:47.8,nfl,0
+296,202110203,1,2021,2,9/19/2021 20:20,KC,16,BAL,3,4,53.5,FALSE,Final,17712,NBC,64,66,Clear Sky,64,5,160,-196,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,30:47.9,nfl,0
+297,202110212,1,2021,2,9/20/2021 20:15,DET,11,GB,12,-11.5,49.5,FALSE,Final,17713,ESPN,65,70,Heavy Intensity Rain,70,6,-591,439,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,30:47.9,nfl,0
+298,202110313,1,2021,3,9/23/2021 20:20,CAR,5,HOU,13,8.5,43,FALSE,Final,17714,NFLN,68,69,Clear Sky,68,4,317,-402,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,30:48.0,nfl,0
+299,202110304,1,2021,3,9/26/2021 13:00,WAS,35,BUF,4,-7.5,45.5,FALSE,Final,17715,FOX,60,61,Light Rain,60,11,-340,272,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,30:48.0,nfl,0
+300,202110308,1,2021,3,9/26/2021 13:00,CHI,6,CLE,8,-8,45,FALSE,Final,17716,FOX,65,65,Few Clouds,65,15,-366,286,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,30:48.1,nfl,0
+301,202110311,1,2021,3,9/26/2021 13:00,BAL,3,DET,11,7.5,50.5,FALSE,Final,17717,CBS,64,66,Overcast Clouds,66,10,304,-387,Dome,Artificial,Ford Field,Detroit,MI,USA,30:48.1,nfl,0
+302,202110315,1,2021,3,9/26/2021 13:00,ARI,1,JAX,15,8,51,FALSE,Final,17723,FOX,70,72,Clear Sky,70,3,304,-385,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,30:48.2,nfl,0
+303,202110316,1,2021,3,9/26/2021 13:00,LAC,29,KC,16,-7,54,FALSE,Final,17719,CBS,76,77,Clear Sky,76,17,-305,248,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:48.2,nfl,0
+304,202110321,1,2021,3,9/26/2021 13:00,NO,22,NE,21,-3,43.5,FALSE,Final,17720,FOX,52,53,Clear Sky,53,5,-151,128,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:48.3,nfl,0
+305,202110323,1,2021,3,9/26/2021 13:00,ATL,2,NYG,23,-2.5,47,FALSE,Final,17721,FOX,62,62,Clear Sky,62,8,-144,123,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:48.3,nfl,0
+306,202110328,1,2021,3,9/26/2021 13:00,CIN,7,PIT,28,-2.5,42,FALSE,Final,17722,CBS,57,58,Scattered Clouds,58,7,-137,117,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,30:48.4,nfl,0
+307,202110334,1,2021,3,9/26/2021 13:00,IND,14,TEN,34,-4.5,47,FALSE,Final,17718,CBS,61,64,Clear Sky,61,4,-218,179,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:48.4,nfl,0
+308,202110310,1,2021,3,9/26/2021 16:05,NYJ,24,DEN,10,-10,41.5,FALSE,Final,17724,CBS,70,73,Overcast Clouds,70,5,-585,434,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,30:48.5,nfl,0
+309,202110325,1,2021,3,9/26/2021 16:05,MIA,19,LV,25,-3.5,45,FALSE,F/OT,17725,CBS,80,83,Clear Sky,83,6,-180,151,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,30:48.5,nfl,0
+310,202110332,1,2021,3,9/26/2021 16:25,TB,33,LAR,32,0.5,55,FALSE,Final,17726,FOX,64,64,Broken Clouds,64,5,-107,-112,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:48.5,nfl,0
+311,202110320,1,2021,3,9/26/2021 16:25,SEA,30,MIN,20,2,54,FALSE,Final,17727,FOX,64,66,Clear Sky,64,3,107,-127,Dome,Artificial,U.S. Bank Stadium,Minneapolis,MN,USA,30:48.6,nfl,0
+312,202110331,1,2021,3,9/26/2021 20:20,GB,12,SF,31,-3.5,50.5,FALSE,Final,17728,NBC,59,59,Scattered Clouds,59,3,-176,148,Outdoor,Grass,Levi's Stadium,Santa Clara,CA,USA,30:48.7,nfl,0
+313,202110309,1,2021,3,9/27/2021 20:15,PHI,26,DAL,9,-3.5,51.5,FALSE,Final,17729,ESPN,76,78,Few Clouds,76,6,-185,154,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,30:48.7,nfl,0
+314,202110407,1,2021,4,9/30/2021 20:20,JAX,15,CIN,7,-7,46,FALSE,Final,17730,NFLN,58,61,Scattered Clouds,61,4,-342,270,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:48.8,nfl,0
+315,202110402,1,2021,4,10/3/2021 13:00,WAS,35,ATL,2,2,47.5,FALSE,Final,17731,FOX,65,67,Light Rain,67,4,107,-127,RetractableDome,Artificial,Mercedes-Benz Stadium,Atlanta,GA,USA,30:48.8,nfl,0
+316,202110404,1,2021,4,10/3/2021 13:00,HOU,13,BUF,4,-18,47,FALSE,Final,17732,CBS,63,65,Light Rain,65,4,-1703,937,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,30:48.9,nfl,0
+317,202110406,1,2021,4,10/3/2021 13:00,DET,11,CHI,6,-2.5,41.5,FALSE,Final,17733,FOX,65,65,Broken Clouds,65,9,-150,127,Outdoor,Grass,Soldier Field,Chicago,IL,USA,30:48.9,nfl,0
+318,202110409,1,2021,4,10/3/2021 13:00,CAR,5,DAL,9,-4,51.5,FALSE,Final,17734,FOX,72,76,Few Clouds,72,3,-207,173,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,30:49.0,nfl,0
+319,202110419,1,2021,4,10/3/2021 13:00,IND,14,MIA,19,-3,41.5,FALSE,Final,17735,CBS,79,80,Scattered Clouds,79,9,-146,122,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,30:49.0,nfl,0
+320,202110420,1,2021,4,10/3/2021 13:00,CLE,8,MIN,20,0.5,51.5,FALSE,Final,17736,CBS,57,60,Clear Sky,57,3,-107,-112,Dome,Artificial,U.S. Bank Stadium,Minneapolis,MN,USA,30:49.1,nfl,0
+321,202110422,1,2021,4,10/3/2021 13:00,NYG,23,NO,22,-7,42.5,FALSE,F/OT,17737,FOX,74,76,Light Rain,76,4,-338,270,Dome,Artificial,Caesars Superdome,New Orleans,LA,USA,30:49.1,nfl,0
+322,202110424,1,2021,4,10/3/2021 13:00,TEN,34,NYJ,24,5.5,44.5,FALSE,F/OT,17738,CBS,69,69,Light Rain,69,2,215,-267,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:49.1,nfl,0
+323,202110426,1,2021,4,10/3/2021 13:00,KC,16,PHI,26,7,53.5,FALSE,Final,17739,CBS,68,69,Light Rain,69,4,278,-357,Outdoor,Grass,Lincoln Financial Field,Philadelphia,PA,USA,30:49.2,nfl,0
+324,202110432,1,2021,4,10/3/2021 16:05,ARI,1,LAR,32,-3.5,54,FALSE,Final,17740,FOX,74,75,Scattered Clouds,74,3,-206,172,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:49.2,nfl,0
+325,202110431,1,2021,4,10/3/2021 16:05,SEA,30,SF,31,-2.5,52,FALSE,Final,17741,FOX,71,72,Scattered Clouds,72,0,-137,115,Outdoor,Grass,Levi's Stadium,Santa Clara,CA,USA,30:49.3,nfl,0
+327,202110412,1,2021,4,10/3/2021 16:25,PIT,28,GB,12,-6,45.5,FALSE,Final,17743,CBS,62,63,Overcast Clouds,63,5,-266,215,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,30:49.4,nfl,0
+328,202110421,1,2021,4,10/3/2021 20:20,TB,33,NE,21,6.5,49.5,FALSE,Final,17744,NBC,58,58,Moderate Rain,58,6,234,-289,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:49.4,nfl,0
+329,202110429,1,2021,4,10/4/2021 20:15,LV,25,LAC,29,-3.5,52,FALSE,Final,17745,ESPN,70,71,Light Rain,71,3,-170,143,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:49.4,nfl,0
+330,202110530,1,2021,5,10/7/2021 20:20,LAR,32,SEA,30,2.5,53,FALSE,Final,17746,FOX,45,46,Scattered Clouds,46,2,124,-145,Outdoor,Artificial,Lumen Field,Seattle,WA,USA,30:49.5,nfl,0
+331,202110502,1,2021,5,10/10/2021 9:30,NYJ,24,ATL,2,-2.5,45,FALSE,Final,17747,NFLN,47,49,Overcast Clouds,45,6,-144,122,Outdoor,NULL,Tottenham Hotspur Stadium,London,NULL,UK,30:49.5,nfl,0
+332,202110505,1,2021,5,10/10/2021 13:00,PHI,26,CAR,5,-2.5,46,FALSE,Final,17753,FOX,63,63,Clear Sky,63,6,-141,119,Outdoor,Artificial,Bank of America Stadium,Charlotte,NC,USA,30:49.6,nfl,0
+333,202110507,1,2021,5,10/10/2021 13:00,GB,12,CIN,7,2.5,50.5,FALSE,F/OT,17748,FOX,66,69,Clear Sky,69,4,115,-137,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:49.6,nfl,0
+334,202110513,1,2021,5,10/10/2021 13:00,NE,21,HOU,13,8,39,FALSE,Final,17755,CBS,79,80,Broken Clouds,80,11,296,-377,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,30:49.7,nfl,0
+335,202110515,1,2021,5,10/10/2021 13:00,TEN,34,JAX,15,5,48.5,FALSE,Final,17754,CBS,71,72,Clear Sky,71,3,168,-201,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,30:49.7,nfl,0
+336,202110520,1,2021,5,10/10/2021 13:00,DET,11,MIN,20,-10,49.5,FALSE,Final,17749,FOX,56,56,Scattered Clouds,56,8,-429,334,Dome,Artificial,U.S. Bank Stadium,Minneapolis,MN,USA,30:49.8,nfl,0
+337,202110528,1,2021,5,10/10/2021 13:00,DEN,10,PIT,28,2,39.5,FALSE,Final,17750,FOX,61,62,Broken Clouds,62,5,107,-127,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,30:49.8,nfl,0
+338,202110533,1,2021,5,10/10/2021 13:00,MIA,19,TB,33,-11,48,FALSE,Final,17751,CBS,74,75,Broken Clouds,75,9,-586,432,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,30:49.9,nfl,0
+339,202110535,1,2021,5,10/10/2021 13:00,NO,22,WAS,35,2.5,43.5,FALSE,Final,17752,CBS,64,64,Overcast Clouds,64,8,119,-141,Outdoor,Grass,FedEx Field,Landover,MD,USA,30:49.9,nfl,0
+340,202110529,1,2021,5,10/10/2021 16:05,CLE,8,LAC,29,-2.5,47,FALSE,Final,17757,CBS,66,68,Clear Sky,66,3,-135,114,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:50.0,nfl,0
+341,202110525,1,2021,5,10/10/2021 16:05,CHI,6,LV,25,-5,46,FALSE,Final,17756,CBS,66,66,Clear Sky,66,3,-246,202,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,30:50.0,nfl,0
+342,202110501,1,2021,5,10/10/2021 16:25,SF,31,ARI,1,-5.5,48.5,FALSE,Final,17759,FOX,73,77,Clear Sky,73,3,-243,199,RetractableDome,Grass,State Farm Stadium,Glendale,AZ,USA,30:50.1,nfl,0
+343,202110509,1,2021,5,10/10/2021 16:25,NYG,23,DAL,9,-7,52.5,FALSE,Final,17758,FOX,70,75,Moderate Rain,70,17,-317,253,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,30:50.1,nfl,0
+344,202110516,1,2021,5,10/10/2021 20:20,BUF,4,KC,16,-2.5,56.5,FALSE,Final,17760,NBC,59,59,Moderate Rain,59,12,-147,124,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:50.2,nfl,0
+345,202110503,1,2021,5,10/11/2021 20:15,IND,14,BAL,3,-7.5,46.5,FALSE,F/OT,17761,ESPN,64,65,Overcast Clouds,65,6,-349,278,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,30:50.3,nfl,0
+346,202110626,1,2021,6,10/14/2021 20:20,TB,33,PHI,26,7,52.5,FALSE,Final,17762,FOX,63,66,Broken Clouds,63,3,247,-305,Outdoor,Grass,Lincoln Financial Field,Philadelphia,PA,USA,30:50.3,nfl,0
+347,202110615,1,2021,6,10/17/2021 9:30,MIA,19,JAX,15,1.5,47,FALSE,Final,17763,CBS,50,52,Overcast Clouds,50,5,109,-128,Outdoor,NULL,Tottenham Hotspur Stadium,London,NULL,UK,30:50.3,nfl,0
+348,202110603,1,2021,6,10/17/2021 13:00,LAC,29,BAL,3,-3,51,FALSE,Final,17770,CBS,51,53,Clear Sky,51,10,-160,135,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,30:50.4,nfl,0
+349,202110605,1,2021,6,10/17/2021 13:00,MIN,20,CAR,5,2,45.5,FALSE,F/OT,17769,FOX,49,51,Clear Sky,48,4,112,-132,Outdoor,Artificial,Bank of America Stadium,Charlotte,NC,USA,30:50.4,nfl,0
+350,202110606,1,2021,6,10/17/2021 13:00,GB,12,CHI,6,5.5,44,FALSE,Final,17764,FOX,53,57,Clear Sky,53,7,181,-223,Outdoor,Grass,Soldier Field,Chicago,IL,USA,30:50.5,nfl,0
+351,202110611,1,2021,6,10/17/2021 13:00,CIN,7,DET,11,3.5,46.5,FALSE,Final,17765,FOX,50,52,Clear Sky,50,9,159,-190,Dome,Artificial,Ford Field,Detroit,MI,USA,30:50.5,nfl,0
+352,202110614,1,2021,6,10/17/2021 13:00,HOU,13,IND,14,-11.5,44.5,FALSE,Final,17766,CBS,49,52,Few Clouds,48,4,-565,420,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:50.6,nfl,0
+353,202110623,1,2021,6,10/17/2021 13:00,LAR,32,NYG,23,7.5,49,FALSE,Final,17767,FOX,52,53,Few Clouds,52,10,300,-384,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:50.6,nfl,0
+354,202110635,1,2021,6,10/17/2021 13:00,KC,16,WAS,35,6.5,54,FALSE,Final,17768,CBS,49,50,Scattered Clouds,47,6,236,-291,Outdoor,Grass,FedEx Field,Landover,MD,USA,30:50.7,nfl,0
+355,202110608,1,2021,6,10/17/2021 16:05,ARI,1,CLE,8,-3,48.5,FALSE,Final,17771,FOX,55,57,Broken Clouds,55,16,-156,131,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,30:50.7,nfl,0
+356,202110610,1,2021,6,10/17/2021 16:25,LV,25,DEN,10,-5,45,FALSE,Final,17772,CBS,56,59,Few Clouds,56,3,-209,175,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,30:50.8,nfl,0
+357,202110621,1,2021,6,10/17/2021 16:25,DAL,9,NE,21,3.5,50.5,FALSE,F/OT,17773,CBS,48,49,Scattered Clouds,45,8,162,-194,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:50.8,nfl,0
+358,202110628,1,2021,6,10/17/2021 20:20,SEA,30,PIT,28,-5.5,42.5,FALSE,F/OT,17774,NBC,47,49,Few Clouds,43,8,-224,184,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,30:50.8,nfl,0
+359,202110634,1,2021,6,10/18/2021 20:15,BUF,4,TEN,34,6,53.5,FALSE,Final,17775,ESPN,53,56,Clear Sky,53,3,220,-269,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:50.9,nfl,0
+360,202110708,1,2021,7,10/21/2021 20:20,DEN,10,CLE,8,-1.5,40.5,FALSE,Final,17776,FOX,54,55,Light Rain,54,8,-125,106,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,30:50.9,nfl,0
+361,202110703,1,2021,7,10/24/2021 13:00,CIN,7,BAL,3,-6.5,45.5,FALSE,Final,17782,CBS,62,63,Broken Clouds,62,11,-276,223,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,30:51.0,nfl,0
+362,202110712,1,2021,7,10/24/2021 13:00,WAS,35,GB,12,-8.5,48,FALSE,Final,17777,FOX,47,47,Scattered Clouds,39,19,-427,328,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,30:51.0,nfl,0
+363,202110719,1,2021,7,10/24/2021 13:00,ATL,2,MIA,19,1.5,48,FALSE,Final,17779,FOX,80,82,Light Rain,80,6,106,-127,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,30:51.1,nfl,0
+364,202110721,1,2021,7,10/24/2021 13:00,NYJ,24,NE,21,-7,42.5,FALSE,Final,17780,CBS,47,48,Light Rain,48,2,-330,262,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:51.1,nfl,0
+365,202110723,1,2021,7,10/24/2021 13:00,CAR,5,NYG,23,3,43,FALSE,Final,17781,FOX,57,61,Light Rain,57,8,129,-152,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:51.2,nfl,0
+366,202110734,1,2021,7,10/24/2021 13:00,KC,16,TEN,34,4,58.5,FALSE,Final,17778,CBS,64,65,Clear Sky,65,14,167,-200,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:51.2,nfl,0
+367,202110732,1,2021,7,10/24/2021 16:05,DET,11,LAR,32,-16.5,50.5,FALSE,Final,17784,FOX,62,62,Broken Clouds,62,5,-1253,786,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:51.3,nfl,0
+368,202110725,1,2021,7,10/24/2021 16:05,PHI,26,LV,25,-0.5,48,FALSE,Final,17783,FOX,67,70,Broken Clouds,70,7,-113,-107,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,30:51.3,nfl,0
+369,202110701,1,2021,7,10/24/2021 16:25,HOU,13,ARI,1,-19.5,47.5,FALSE,Final,17785,CBS,74,77,Clear Sky,74,4,-2228,1125,RetractableDome,Grass,State Farm Stadium,Glendale,AZ,USA,30:51.4,nfl,0
+370,202110733,1,2021,7,10/24/2021 16:25,CHI,6,TB,33,-12,47,FALSE,Final,17786,CBS,74,75,Light Rain,74,10,-652,477,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,30:51.4,nfl,0
+371,202110731,1,2021,7,10/24/2021 20:20,IND,14,SF,31,-3.5,41.5,FALSE,Final,17787,NBC,59,60,Heavy Intensity Rain,59,5,-176,145,Outdoor,Grass,Levi's Stadium,Santa Clara,CA,USA,30:51.5,nfl,0
+372,202110730,1,2021,7,10/25/2021 20:15,NO,22,SEA,30,5.5,41.5,FALSE,Final,17788,ESPN,51,51,Light Rain,51,14,191,-230,Outdoor,Artificial,Lumen Field,Seattle,WA,USA,30:51.5,nfl,0
+373,202110801,1,2021,8,10/28/2021 20:20,GB,12,ARI,1,-6,50.5,FALSE,Final,17789,FOX,74,76,Clear Sky,74,6,-274,223,RetractableDome,Grass,State Farm Stadium,Glendale,AZ,USA,30:51.6,nfl,0
+374,202110802,1,2021,8,10/31/2021 13:00,CAR,5,ATL,2,-1.5,47,FALSE,Final,17790,FOX,51,53,Clear Sky,51,7,-128,107,RetractableDome,Artificial,Mercedes-Benz Stadium,Atlanta,GA,USA,30:51.6,nfl,0
+375,202110804,1,2021,8,10/31/2021 13:00,MIA,19,BUF,4,-14.5,48.5,FALSE,Final,17791,CBS,46,50,Light Rain,50,16,-1010,655,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,30:51.7,nfl,0
+376,202110806,1,2021,8,10/31/2021 13:00,SF,31,CHI,6,4,40,FALSE,Final,17792,FOX,42,45,Clear Sky,36,12,172,-206,Outdoor,Grass,Soldier Field,Chicago,IL,USA,30:51.8,nfl,0
+377,202110808,1,2021,8,10/31/2021 13:00,PIT,28,CLE,8,-5.5,43,FALSE,Final,17793,CBS,50,50,Overcast Clouds,44,18,-218,179,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,30:51.8,nfl,0
+378,202110811,1,2021,8,10/31/2021 13:00,PHI,26,DET,11,3.5,48.5,FALSE,Final,17794,FOX,45,46,Scattered Clouds,40,9,147,-174,Dome,Artificial,Ford Field,Detroit,MI,USA,30:51.9,nfl,0
+379,202110813,1,2021,8,10/31/2021 13:00,LAR,32,HOU,13,16.5,47,FALSE,Final,17797,FOX,63,65,Clear Sky,63,4,803,-1307,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,30:51.9,nfl,0
+380,202110814,1,2021,8,10/31/2021 13:00,TEN,34,IND,14,-3,51,FALSE,F/OT,17795,CBS,44,45,Clear Sky,40,7,-155,131,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:52.0,nfl,0
+381,202110824,1,2021,8,10/31/2021 13:00,CIN,7,NYJ,24,11.5,43,FALSE,Final,17796,CBS,55,55,Few Clouds,55,8,420,-568,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:52.0,nfl,0
+382,202110829,1,2021,8,10/31/2021 16:05,NE,21,LAC,29,-4,50.5,FALSE,Final,17798,CBS,60,62,Overcast Clouds,60,5,-186,155,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:52.1,nfl,0
+383,202110830,1,2021,8,10/31/2021 16:05,JAX,15,SEA,30,-4,44,FALSE,Final,17799,CBS,44,44,Clear Sky,44,2,-195,164,Outdoor,Artificial,Lumen Field,Seattle,WA,USA,30:52.2,nfl,0
+384,202110810,1,2021,8,10/31/2021 16:25,WAS,35,DEN,10,-4,45,FALSE,Final,17800,FOX,41,42,Overcast Clouds,41,2,-191,159,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,30:52.2,nfl,0
+385,202110822,1,2021,8,10/31/2021 16:25,TB,33,NO,22,4,48.5,FALSE,Final,17801,FOX,63,63,Clear Sky,63,5,167,-199,Dome,Artificial,Caesars Superdome,New Orleans,LA,USA,30:52.3,nfl,0
+386,202110820,1,2021,8,10/31/2021 20:20,DAL,9,MIN,20,-4.5,49.5,FALSE,Final,17802,NBC,37,38,Clear Sky,31,8,-215,179,Dome,Artificial,U.S. Bank Stadium,Minneapolis,MN,USA,30:52.3,nfl,0
+387,202110816,1,2021,8,11/1/2021 20:15,NYG,23,KC,16,-10.5,53,FALSE,Final,17803,ESPN,38,39,Overcast Clouds,36,3,-516,396,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:52.4,nfl,0
+388,202110914,1,2021,9,11/4/2021 20:20,NYJ,24,IND,14,-10,45,FALSE,Final,17804,FOX,35,39,Clear Sky,32,3,-514,391,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:52.4,nfl,0
+389,202110903,1,2021,9,11/7/2021 13:00,MIN,20,BAL,3,-7,51,FALSE,F/OT,17812,FOX,45,48,Few Clouds,40,9,-316,253,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,30:52.5,nfl,0
+390,202110905,1,2021,9,11/7/2021 13:00,NE,21,CAR,5,3.5,42,FALSE,Final,17810,CBS,43,47,Clear Sky,39,6,151,-180,Outdoor,Artificial,Bank of America Stadium,Charlotte,NC,USA,30:52.5,nfl,0
+391,202110907,1,2021,9,11/7/2021 13:00,CLE,8,CIN,7,-2,47.5,FALSE,Final,17805,CBS,45,46,Clear Sky,43,4,-128,107,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:52.6,nfl,0
+392,202110909,1,2021,9,11/7/2021 13:00,DEN,10,DAL,9,-10,50,FALSE,Final,17806,FOX,58,60,Clear Sky,58,9,-478,365,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,30:52.7,nfl,0
+393,202110915,1,2021,9,11/7/2021 13:00,BUF,4,JAX,15,16,48.5,FALSE,Final,17811,CBS,52,52,Clear Sky,52,6,730,-1201,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,30:52.7,nfl,0
+394,202110919,1,2021,9,11/7/2021 13:00,HOU,13,MIA,19,-4,45,FALSE,Final,17807,FOX,62,65,Clear Sky,62,11,-200,168,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,30:52.8,nfl,0
+395,202110922,1,2021,9,11/7/2021 13:00,ATL,2,NO,22,-6.5,43,FALSE,Final,17808,FOX,57,57,Clear Sky,57,5,-277,225,Dome,Artificial,Caesars Superdome,New Orleans,LA,USA,30:52.9,nfl,0
+396,202110923,1,2021,9,11/7/2021 13:00,LV,25,NYG,23,3,47,FALSE,Final,17809,CBS,45,48,Clear Sky,42,6,127,-151,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:52.9,nfl,0
+397,202110926,1,2021,9,11/7/2021 16:05,LAC,29,PHI,26,0.5,49.5,FALSE,Final,17813,CBS,44,47,Broken Clouds,40,7,-106,-112,Outdoor,Grass,Lincoln Financial Field,Philadelphia,PA,USA,30:53.0,nfl,0
+398,202110916,1,2021,9,11/7/2021 16:25,GB,12,KC,16,-7,48,FALSE,Final,17814,FOX,56,58,Clear Sky,58,13,-333,263,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:53.0,nfl,0
+399,202110931,1,2021,9,11/7/2021 16:25,ARI,1,SF,31,-5.5,44.5,FALSE,Final,17815,FOX,50,52,Few Clouds,50,2,-246,202,Outdoor,Grass,Levi's Stadium,Santa Clara,CA,USA,30:53.1,nfl,0
+400,202110932,1,2021,9,11/7/2021 20:20,TEN,34,LAR,32,-7,53,FALSE,Final,17816,NBC,56,60,Overcast Clouds,56,3,-344,275,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:53.2,nfl,0
+401,202110928,1,2021,9,11/8/2021 20:15,CHI,6,PIT,28,-7,40,FALSE,Final,17817,ESPN,48,49,Clear Sky,45,6,-303,245,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,30:53.2,nfl,0
+402,202111019,1,2021,10,11/11/2021 20:20,BAL,3,MIA,19,8.5,46,FALSE,Final,17818,FOX,77,77,Light Rain,77,8,326,-413,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,30:53.3,nfl,0
+403,202111009,1,2021,10,11/14/2021 13:00,ATL,2,DAL,9,-8,55,FALSE,Final,17819,FOX,52,58,Clear Sky,52,4,-378,298,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,30:53.3,nfl,0
+404,202111014,1,2021,10,11/14/2021 13:00,JAX,15,IND,14,-10,48,FALSE,Final,17821,CBS,32,34,Broken Clouds,25,11,-472,363,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:53.4,nfl,0
+405,202111021,1,2021,10,11/14/2021 13:00,CLE,8,NE,21,-2.5,45,FALSE,Final,17822,CBS,42,43,Light Rain,38,6,-136,115,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:53.4,nfl,0
+406,202111024,1,2021,10,11/14/2021 13:00,BUF,4,NYJ,24,12.5,48,FALSE,Final,17823,CBS,41,44,Light Rain,37,7,513,-731,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:53.5,nfl,0
+407,202111028,1,2021,10,11/14/2021 13:00,DET,11,PIT,28,-5.5,40.5,FALSE,F/OT,17824,FOX,33,36,Light Snow,28,12,-238,195,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,30:53.5,nfl,0
+408,202111034,1,2021,10,11/14/2021 13:00,NO,22,TEN,34,-2.5,43,FALSE,Final,17820,CBS,40,42,Clear Sky,40,4,-147,124,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:53.6,nfl,0
+409,202111035,1,2021,10,11/14/2021 13:00,TB,33,WAS,35,9.5,50.5,FALSE,Final,17825,FOX,42,43,Clear Sky,38,7,344,-444,Outdoor,Grass,FedEx Field,Landover,MD,USA,30:53.6,nfl,0
+410,202111001,1,2021,10,11/14/2021 16:05,CAR,5,ARI,1,-7,41.5,FALSE,Final,17826,FOX,68,74,Clear Sky,68,4,-305,246,RetractableDome,Grass,State Farm Stadium,Glendale,AZ,USA,30:53.7,nfl,0
+411,202111029,1,2021,10,11/14/2021 16:05,MIN,20,LAC,29,-3.5,53.5,FALSE,Final,17827,FOX,70,72,Clear Sky,70,4,-180,152,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:53.8,nfl,0
+412,202111010,1,2021,10,11/14/2021 16:25,PHI,26,DEN,10,0,44.5,FALSE,Final,17828,CBS,55,58,Clear Sky,58,7,-109,-110,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,30:53.8,nfl,0
+413,202111012,1,2021,10,11/14/2021 16:25,SEA,30,GB,12,-3.5,49,FALSE,Final,17829,CBS,24,30,Few Clouds,21,10,-169,144,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,30:53.9,nfl,0
+414,202111025,1,2021,10,11/14/2021 20:20,KC,16,LV,25,3,53.5,FALSE,Final,17830,NBC,63,63,Clear Sky,63,1,125,-148,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,30:53.9,nfl,0
+415,202111031,1,2021,10,11/15/2021 20:15,LAR,32,SF,31,3.5,50.5,FALSE,Final,17831,ESPN,56,60,Overcast Clouds,56,3,153,-183,Outdoor,Grass,Levi's Stadium,Santa Clara,CA,USA,30:54.0,nfl,0
+416,202111102,1,2021,11,11/18/2021 20:20,NE,21,ATL,2,6.5,47,FALSE,Final,17832,FOX,45,46,Clear Sky,39,12,238,-297,RetractableDome,Artificial,Mercedes-Benz Stadium,Atlanta,GA,USA,30:54.0,nfl,0
+417,202111104,1,2021,11,11/21/2021 13:00,IND,14,BUF,4,-7,49.5,FALSE,Final,17833,CBS,44,44,Light Rain,36,21,-309,247,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,30:54.1,nfl,0
+418,202111105,1,2021,11,11/21/2021 13:00,WAS,35,CAR,5,-3,43,FALSE,Final,17840,FOX,51,52,Overcast Clouds,51,6,-176,147,Outdoor,Artificial,Bank of America Stadium,Charlotte,NC,USA,30:54.2,nfl,0
+419,202111106,1,2021,11,11/21/2021 13:00,BAL,3,CHI,6,1.5,41,FALSE,Final,17834,CBS,31,32,Few Clouds,22,14,103,-123,Outdoor,Grass,Soldier Field,Chicago,IL,USA,30:54.3,nfl,0
+420,202111108,1,2021,11,11/21/2021 13:00,DET,11,CLE,8,-13,42,FALSE,Final,17835,FOX,41,44,Light Rain,35,23,-671,487,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,30:54.3,nfl,0
+421,202111115,1,2021,11,11/21/2021 13:00,SF,31,JAX,15,6.5,45.5,FALSE,Final,17841,FOX,63,66,Broken Clouds,63,1,233,-287,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,30:54.4,nfl,0
+422,202111120,1,2021,11,11/21/2021 13:00,GB,12,MIN,20,2,47.5,FALSE,Final,17837,FOX,20,23,Clear Sky,9,11,106,-126,Dome,Artificial,U.S. Bank Stadium,Minneapolis,MN,USA,30:54.4,nfl,0
+423,202111124,1,2021,11,11/21/2021 13:00,MIA,19,NYJ,24,4,44.5,FALSE,Final,17838,CBS,52,53,Broken Clouds,53,9,161,-194,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:54.5,nfl,0
+424,202111126,1,2021,11,11/21/2021 13:00,NO,22,PHI,26,-3,42.5,FALSE,Final,17839,FOX,51,52,Overcast Clouds,51,8,-154,129,Outdoor,Grass,Lincoln Financial Field,Philadelphia,PA,USA,30:54.5,nfl,0
+425,202111134,1,2021,11,11/21/2021 13:00,HOU,13,TEN,34,-10,45,FALSE,Final,17836,CBS,51,52,Light Rain,52,7,-470,362,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:54.6,nfl,0
+426,202111125,1,2021,11,11/21/2021 16:05,CIN,7,LV,25,1.5,50.5,FALSE,Final,17842,CBS,54,57,Clear Sky,57,4,108,-128,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,30:54.6,nfl,0
+427,202111116,1,2021,11,11/21/2021 16:25,DAL,9,KC,16,-2.5,56,FALSE,Final,17843,FOX,35,37,Clear Sky,32,6,-141,119,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:54.7,nfl,0
+428,202111130,1,2021,11,11/21/2021 16:25,ARI,1,SEA,30,-4.5,45,FALSE,Final,17844,FOX,39,41,Broken Clouds,39,1,-208,173,Outdoor,Artificial,Lumen Field,Seattle,WA,USA,30:54.7,nfl,0
+429,202111129,1,2021,11,11/21/2021 20:20,PIT,28,LAC,29,-6.5,47.5,FALSE,Final,17845,NBC,68,70,Clear Sky,70,6,-275,226,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:54.8,nfl,0
+430,202111133,1,2021,11,11/22/2021 20:15,NYG,23,TB,33,-11,49.5,FALSE,Final,17846,ESPN,65,65,Scattered Clouds,65,9,-541,405,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,30:54.9,nfl,0
+431,202111211,1,2021,12,11/25/2021 12:30,CHI,6,DET,11,2.5,41.5,FALSE,Final,17847,FOX,32,33,Overcast Clouds,23,14,123,-147,Dome,Artificial,Ford Field,Detroit,MI,USA,30:54.9,nfl,0
+432,202111209,1,2021,12,11/25/2021 16:30,LV,25,DAL,9,-7,50.5,FALSE,F/OT,17848,CBS,44,48,Clear Sky,38,9,-330,263,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,30:55.0,nfl,0
+433,202111222,1,2021,12,11/25/2021 20:20,BUF,4,NO,22,6.5,45,FALSE,Final,17849,NBC,64,66,Light Rain,66,8,240,-297,Dome,Artificial,Caesars Superdome,New Orleans,LA,USA,30:55.0,nfl,0
+434,202111207,1,2021,12,11/28/2021 13:00,PIT,28,CIN,7,-4,43.5,FALSE,Final,17850,CBS,31,31,Scattered Clouds,24,6,-188,158,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:55.1,nfl,0
+435,202111213,1,2021,12,11/28/2021 13:00,NYJ,24,HOU,13,-2.5,44.5,FALSE,Final,17856,CBS,52,55,Clear Sky,52,4,-144,122,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,30:55.1,nfl,0
+436,202111214,1,2021,12,11/28/2021 13:00,TB,33,IND,14,3,53.5,FALSE,Final,17851,FOX,28,32,Clear Sky,21,6,130,-153,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:55.2,nfl,0
+437,202111215,1,2021,12,11/28/2021 13:00,ATL,2,JAX,15,2,46,FALSE,Final,17855,CBS,53,55,Overcast Clouds,53,7,105,-124,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,30:55.3,nfl,0
+438,202111219,1,2021,12,11/28/2021 13:00,CAR,5,MIA,19,1,41,FALSE,Final,17852,FOX,61,70,Scattered Clouds,61,6,-102,-117,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,30:55.3,nfl,0
+439,202111221,1,2021,12,11/28/2021 13:00,TEN,34,NE,21,-7,43,FALSE,Final,17853,CBS,32,34,Overcast Clouds,34,0,-315,253,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:55.4,nfl,0
+440,202111223,1,2021,12,11/28/2021 13:00,PHI,26,NYG,23,4,45,FALSE,Final,17854,FOX,35,40,Overcast Clouds,29,7,165,-197,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:55.5,nfl,0
+441,202111210,1,2021,12,11/28/2021 16:05,LAC,29,DEN,10,3,47.5,FALSE,Final,17857,CBS,51,54,Clear Sky,54,6,125,-147,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,30:55.6,nfl,0
+442,202111212,1,2021,12,11/28/2021 16:25,LAR,32,GB,12,1.5,46.5,FALSE,Final,17858,FOX,22,24,Broken Clouds,17,3,104,-123,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,30:55.6,nfl,0
+443,202111231,1,2021,12,11/28/2021 16:25,MIN,20,SF,31,-4,48.5,FALSE,Final,17859,FOX,54,60,Clear Sky,54,1,-203,171,Outdoor,Grass,Levi's Stadium,Santa Clara,CA,USA,30:55.7,nfl,0
+444,202111203,1,2021,12,11/28/2021 20:20,CLE,8,BAL,3,-3,47,FALSE,Final,17860,NBC,40,45,Overcast Clouds,39,12,-161,136,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,30:55.8,nfl,0
+445,202111235,1,2021,12,11/29/2021 20:15,SEA,30,WAS,35,2,47,FALSE,Final,17861,ESPN,31,34,Clear Sky,27,4,107,-128,Outdoor,Grass,FedEx Field,Landover,MD,USA,30:55.8,nfl,0
+446,202111322,1,2021,13,12/2/2021 20:20,DAL,9,NO,22,6,46,FALSE,Final,17862,FOX,60,62,Scattered Clouds,60,5,218,-262,Dome,Artificial,Caesars Superdome,New Orleans,LA,USA,30:55.9,nfl,0
+447,202111302,1,2021,13,12/5/2021 13:00,TB,33,ATL,2,11,50.5,FALSE,Final,17863,FOX,56,59,Overcast Clouds,56,7,406,-537,RetractableDome,Artificial,Mercedes-Benz Stadium,Atlanta,GA,USA,30:56.0,nfl,0
+448,202111306,1,2021,13,12/5/2021 13:00,ARI,1,CHI,6,8,43,FALSE,Final,17864,FOX,39,41,Light Rain,31,12,290,-377,Outdoor,Grass,Soldier Field,Chicago,IL,USA,30:56.0,nfl,0
+449,202111307,1,2021,13,12/5/2021 13:00,LAC,29,CIN,7,-3,50,FALSE,Final,17865,CBS,60,60,Light Rain,60,14,-148,126,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:56.1,nfl,0
+450,202111311,1,2021,13,12/5/2021 13:00,MIN,20,DET,11,7,47,FALSE,Final,17866,CBS,43,48,Light Rain,37,11,251,-311,Dome,Artificial,Ford Field,Detroit,MI,USA,30:56.1,nfl,0
+451,202111313,1,2021,13,12/5/2021 13:00,IND,14,HOU,13,10,45,FALSE,Final,17870,CBS,72,74,Overcast Clouds,74,11,352,-462,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,30:56.2,nfl,0
+452,202111316,1,2021,13,12/5/2021 20:20,DEN,10,KC,16,-8.5,46.5,FALSE,Final,17867,NBC,42,47,Clear Sky,40,20,-392,309,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:56.6,nfl,0
+453,202111319,1,2021,13,12/5/2021 13:00,NYG,23,MIA,19,-6.5,40,FALSE,Final,17868,FOX,72,75,Scattered Clouds,72,4,-275,222,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,30:56.3,nfl,0
+454,202111324,1,2021,13,12/5/2021 13:00,PHI,26,NYJ,24,5.5,44,FALSE,Final,17869,CBS,47,48,Overcast Clouds,44,7,174,-210,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:56.4,nfl,0
+455,202111325,1,2021,13,12/5/2021 16:05,WAS,35,LV,25,-2,47.5,FALSE,Final,17871,FOX,59,60,Few Clouds,60,5,-134,111,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,30:56.4,nfl,0
+456,202111332,1,2021,13,12/5/2021 16:05,JAX,15,LAR,32,-14,48,FALSE,Final,17872,FOX,58,60,Clear Sky,58,1,-794,556,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:56.4,nfl,0
+457,202111328,1,2021,13,12/5/2021 16:25,BAL,3,PIT,28,4,44,FALSE,Final,17873,CBS,52,55,Light Rain,55,13,168,-200,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,30:56.5,nfl,0
+458,202111330,1,2021,13,12/5/2021 16:25,SF,31,SEA,30,2.5,44.5,FALSE,Final,17874,CBS,37,38,Broken Clouds,37,2,119,-140,Outdoor,Artificial,Lumen Field,Seattle,WA,USA,30:56.6,nfl,0
+459,202111304,1,2021,13,12/6/2021 20:15,NE,21,BUF,4,-3,40,FALSE,Final,17875,ESPN,31,33,Light Snow,21,21,-150,127,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,30:56.7,nfl,0
+460,202111420,1,2021,14,12/9/2021 20:20,PIT,28,MIN,20,-3.5,45,FALSE,Final,17876,FOX,28,30,Clear Sky,25,5,-179,151,Dome,Artificial,U.S. Bank Stadium,Minneapolis,MN,USA,30:56.8,nfl,0
+461,202111405,1,2021,14,12/12/2021 13:00,ATL,2,CAR,5,-2.5,41,FALSE,Final,17883,FOX,35,40,Clear Sky,35,2,-137,115,Outdoor,Artificial,Bank of America Stadium,Charlotte,NC,USA,30:56.8,nfl,0
+462,202111407,1,2021,14,12/12/2021 16:25,SF,31,CIN,7,2,49.5,FALSE,F/OT,17877,CBS,35,35,Clear Sky,30,5,108,-129,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:57.3,nfl,0
+463,202111408,1,2021,14,12/12/2021 13:00,BAL,3,CLE,8,-3,44,FALSE,Final,17878,CBS,39,39,Clear Sky,31,14,-151,128,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,30:56.9,nfl,0
+464,202111413,1,2021,14,12/12/2021 13:00,SEA,30,HOU,13,9.5,41,FALSE,Final,17884,FOX,50,55,Clear Sky,50,2,332,-426,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,30:56.9,nfl,0
+465,202111416,1,2021,14,12/12/2021 13:00,LV,25,KC,16,-9.5,48,FALSE,Final,17880,CBS,42,43,Clear Sky,37,12,-440,344,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:57.0,nfl,0
+466,202111424,1,2021,14,12/12/2021 13:00,NO,22,NYJ,24,4.5,42.5,FALSE,Final,17881,CBS,39,41,Clear Sky,34,8,180,-216,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:57.0,nfl,0
+467,202111434,1,2021,14,12/12/2021 13:00,JAX,15,TEN,34,-9,44,FALSE,Final,17879,CBS,35,40,Clear Sky,32,3,-433,338,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:57.1,nfl,0
+468,202111435,1,2021,14,12/12/2021 13:00,DAL,9,WAS,35,6.5,48,FALSE,Final,17882,FOX,36,37,Clear Sky,33,4,223,-274,Outdoor,Grass,FedEx Field,Landover,MD,USA,30:57.1,nfl,0
+469,202111410,1,2021,14,12/12/2021 16:05,DET,11,DEN,10,-12,42,FALSE,Final,17885,FOX,41,42,Scattered Clouds,42,3,-607,446,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,30:57.2,nfl,0
+470,202111429,1,2021,14,12/12/2021 16:05,NYG,23,LAC,29,-9,43.5,FALSE,Final,17886,FOX,53,56,Clear Sky,53,1,-402,318,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:57.2,nfl,0
+471,202111433,1,2021,14,12/12/2021 16:25,BUF,4,TB,33,-3.5,52.5,FALSE,F/OT,17887,CBS,67,69,Overcast Clouds,69,10,-188,158,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,30:57.4,nfl,0
+472,202111412,1,2021,14,12/12/2021 20:20,CHI,6,GB,12,-11,43,FALSE,Final,17888,NBC,36,38,Clear Sky,30,14,-645,461,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,30:57.4,nfl,0
+473,202111401,1,2021,14,12/13/2021 20:15,LAR,32,ARI,1,-3,51,FALSE,Final,17889,ESPN,60,64,Overcast Clouds,60,3,-158,133,RetractableDome,Grass,State Farm Stadium,Glendale,AZ,USA,30:57.5,nfl,0
+474,202111529,1,2021,15,12/16/2021 20:20,KC,16,LAC,29,3,54,FALSE,F/OT,17890,FOX,52,56,Overcast Clouds,52,6,145,-172,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:57.5,nfl,0
+475,202111504,1,2021,15,12/19/2021 13:00,CAR,5,BUF,4,-14.5,43.5,FALSE,Final,17891,FOX,19,22,Scattered Clouds,14,4,-893,602,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,30:57.6,nfl,0
+476,202111508,1,2021,15,12/20/2021 17:00,LV,25,CLE,8,2.5,41,FALSE,Final,17892,NFLN,34,34,Clear Sky,26,11,124,-145,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,30:58.2,nfl,0
+477,202111514,1,2021,15,12/18/2021 20:20,NE,21,IND,14,-2,46,FALSE,Final,17893,NFLN,32,35,Broken Clouds,26,6,-125,103,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:57.6,nfl,0
+478,202111519,1,2021,15,12/19/2021 13:00,NYJ,24,MIA,19,-10,42,FALSE,Final,17894,CBS,72,75,Scattered Clouds,72,8,-440,343,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,30:57.8,nfl,0
+479,202111526,1,2021,15,12/21/2021 19:00,WAS,35,PHI,26,-10,40,FALSE,Final,17895,FOX,37,39,Light Rain,35,3,-449,351,Outdoor,Grass,Lincoln Financial Field,Philadelphia,PA,USA,30:58.4,nfl,0
+480,202111503,1,2021,15,12/19/2021 16:25,GB,12,BAL,3,8.5,45,FALSE,Final,17900,FOX,31,32,Clear Sky,24,9,317,-394,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,30:58.1,nfl,0
+481,202111511,1,2021,15,12/19/2021 13:00,ARI,1,DET,11,12.5,48,FALSE,Final,17896,FOX,29,29,Overcast Clouds,21,7,482,-671,Dome,Artificial,Ford Field,Detroit,MI,USA,30:57.7,nfl,0
+482,202111515,1,2021,15,12/19/2021 13:00,HOU,13,JAX,15,-6,39.5,FALSE,Final,17899,CBS,63,65,Few Clouds,65,11,-244,200,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,30:57.7,nfl,0
+483,202111523,1,2021,15,12/19/2021 13:00,DAL,9,NYG,23,12,43.5,FALSE,Final,17897,FOX,28,30,Clear Sky,20,8,408,-544,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:57.9,nfl,0
+484,202111528,1,2021,15,12/19/2021 13:00,TEN,34,PIT,28,-0.5,43.5,FALSE,Final,17898,CBS,29,32,Clear Sky,32,1,-114,-104,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,30:57.9,nfl,0
+485,202111510,1,2021,15,12/19/2021 16:05,CIN,7,DEN,10,-3,44,FALSE,Final,17901,CBS,39,41,Scattered Clouds,36,5,-155,132,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,30:58.0,nfl,0
+486,202111531,1,2021,15,12/19/2021 16:05,ATL,2,SF,31,-9,47.5,FALSE,Final,17902,CBS,45,47,Clear Sky,44,3,-399,310,Outdoor,Grass,Levi's Stadium,Santa Clara,CA,USA,30:58.0,nfl,0
+487,202111532,1,2021,15,12/21/2021 19:00,SEA,30,LAR,32,-7,47,FALSE,Final,17903,FOX,55,58,Clear Sky,55,2,-333,267,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:58.3,nfl,0
+488,202111533,1,2021,15,12/19/2021 20:20,NO,22,TB,33,-11.5,45.5,FALSE,Final,17904,NBC,70,70,Scattered Clouds,70,7,-602,447,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,30:58.1,nfl,0
+489,202111506,1,2021,15,12/20/2021 20:15,MIN,20,CHI,6,7,47,FALSE,Final,17905,ESPN,30,35,Broken Clouds,23,7,252,-311,Outdoor,Grass,Soldier Field,Chicago,IL,USA,30:58.2,nfl,0
+490,202111634,1,2021,16,12/23/2021 20:20,SF,31,TEN,34,3.5,45.5,FALSE,Final,17906,NFLN,47,50,Overcast Clouds,46,10,148,-176,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:58.4,nfl,0
+491,202111612,1,2021,16,12/25/2021 16:30,CLE,8,GB,12,-7.5,46.5,FALSE,Final,17907,FOX,25,29,Overcast Clouds,23,6,-384,300,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,30:58.5,nfl,0
+492,202111601,1,2021,16,12/25/2021 20:15,IND,14,ARI,1,-3,48,FALSE,Final,17908,NFLN,57,60,Overcast Clouds,57,5,-154,131,RetractableDome,Grass,State Farm Stadium,Glendale,AZ,USA,30:58.5,nfl,0
+493,202111602,1,2021,16,12/26/2021 13:00,DET,11,ATL,2,-7.5,42.5,FALSE,Final,17909,FOX,59,60,Clear Sky,59,4,-346,276,RetractableDome,Artificial,Mercedes-Benz Stadium,Atlanta,GA,USA,30:58.6,nfl,0
+494,202111605,1,2021,16,12/26/2021 13:00,TB,33,CAR,5,10.5,44,FALSE,Final,17915,FOX,54,57,Broken Clouds,54,3,380,-510,Outdoor,Artificial,Bank of America Stadium,Charlotte,NC,USA,30:58.7,nfl,0
+495,202111607,1,2021,16,12/26/2021 13:00,BAL,3,CIN,7,-7.5,43,FALSE,Final,17910,CBS,48,48,Light Rain,44,8,-340,274,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:58.7,nfl,0
+496,202111613,1,2021,16,12/26/2021 13:00,LAC,29,HOU,13,12.5,45.5,FALSE,Final,17916,CBS,69,72,Overcast Clouds,72,7,473,-656,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,30:58.7,nfl,0
+497,202111620,1,2021,16,12/26/2021 13:00,LAR,32,MIN,20,3,48.5,FALSE,Final,17911,FOX,28,28,Snow,17,12,146,-173,Dome,Artificial,U.S. Bank Stadium,Minneapolis,MN,USA,30:58.8,nfl,0
+498,202111621,1,2021,16,12/26/2021 13:00,BUF,4,NE,21,-1,43.5,FALSE,Final,17912,CBS,28,32,Clear Sky,24,10,-111,-107,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:58.9,nfl,0
+499,202111624,1,2021,16,12/26/2021 13:00,JAX,15,NYJ,24,-2.5,42.5,FALSE,Final,17913,CBS,36,39,Few Clouds,32,10,-136,115,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:58.9,nfl,0
+500,202111626,1,2021,16,12/26/2021 13:00,NYG,23,PHI,26,-11,41,FALSE,Final,17914,FOX,38,40,Scattered Clouds,32,8,-550,410,Outdoor,Grass,Lincoln Financial Field,Philadelphia,PA,USA,30:59.0,nfl,0
+501,202111630,1,2021,16,12/26/2021 16:05,CHI,6,SEA,30,-7,41,FALSE,Final,17917,FOX,21,22,Light Snow,10,12,-314,254,Outdoor,Artificial,Lumen Field,Seattle,WA,USA,30:59.0,nfl,0
+502,202111616,1,2021,16,12/26/2021 16:25,PIT,28,KC,16,-10.5,44.5,FALSE,Final,17918,CBS,64,65,Light Rain,65,14,-468,364,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,30:59.1,nfl,0
+503,202111625,1,2021,16,12/26/2021 16:25,DEN,10,LV,25,1,42,FALSE,Final,17919,CBS,44,46,Clear Sky,40,11,-106,-113,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,30:59.1,nfl,0
+504,202111609,1,2021,16,12/26/2021 20:20,WAS,35,DAL,9,-9.5,46,FALSE,Final,17920,NBC,69,70,Clear Sky,69,14,-461,356,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,30:59.2,nfl,0
+505,202111622,1,2021,16,12/27/2021 20:15,MIA,19,NO,22,3,37.5,FALSE,Final,17921,ESPN,67,69,Broken Clouds,67,5,145,-172,Dome,Artificial,Caesars Superdome,New Orleans,LA,USA,30:59.3,nfl,0
+506,202111704,1,2021,17,1/2/2022 13:00,ATL,2,BUF,4,-14,46,FALSE,Final,17922,FOX,12,19,Overcast Clouds,19,1,-899,611,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,30:59.4,nfl,0
+507,202111706,1,2021,17,1/2/2022 13:00,NYG,23,CHI,6,-6.5,36.5,FALSE,Final,17923,CBS,14,17,Scattered Clouds,3,7,-285,235,Outdoor,Grass,Soldier Field,Chicago,IL,USA,30:59.4,nfl,0
+508,202111707,1,2021,17,1/2/2022 13:00,KC,16,CIN,7,3.5,51,FALSE,Final,17924,CBS,28,29,Overcast Clouds,19,11,154,-184,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,30:59.5,nfl,0
+509,202111709,1,2021,17,1/2/2022 16:25,ARI,1,DAL,9,-6.5,52.5,FALSE,Final,17925,FOX,29,36,Clear Sky,29,2,-262,214,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,30:59.9,nfl,0
+510,202111714,1,2021,17,1/2/2022 13:00,LV,25,IND,14,-8.5,46,FALSE,Final,17927,FOX,23,25,Clear Sky,12,11,-385,304,RetractableDome,Artificial,Lucas Oil Stadium,Indianapolis,IN,USA,30:59.5,nfl,0
+511,202111721,1,2021,17,1/2/2022 13:00,JAX,15,NE,21,-17,41.5,FALSE,Final,17928,CBS,30,32,Overcast Clouds,25,9,-1329,822,Outdoor,Artificial,Gillette Stadium,Foxborough,MA,USA,30:59.6,nfl,0
+512,202111722,1,2021,17,1/2/2022 16:25,CAR,5,NO,22,-6.5,37,FALSE,Final,17929,FOX,36,37,Broken Clouds,25,19,-292,237,Dome,Artificial,Caesars Superdome,New Orleans,LA,USA,31:00.0,nfl,0
+513,202111724,1,2021,17,1/2/2022 13:00,TB,33,NYJ,24,14,47.5,FALSE,Final,17930,FOX,35,36,Broken Clouds,29,10,580,-828,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,30:59.6,nfl,0
+514,202111734,1,2021,17,1/2/2022 13:00,MIA,19,TEN,34,-3,40.5,FALSE,Final,17926,CBS,31,32,Snow,22,14,-161,136,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,30:59.7,nfl,0
+515,202111735,1,2021,17,1/2/2022 13:00,PHI,26,WAS,35,6,45,FALSE,Final,17931,FOX,39,45,Light Rain,39,10,206,-249,Outdoor,Grass,FedEx Field,Landover,MD,USA,30:59.8,nfl,0
+516,202111729,1,2021,17,1/2/2022 16:05,DEN,10,LAC,29,-8,45,FALSE,Final,17932,CBS,52,55,Clear Sky,52,4,-364,288,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,30:59.8,nfl,0
+517,202111731,1,2021,17,1/2/2022 16:05,HOU,13,SF,31,-14,44,FALSE,Final,17933,CBS,46,48,Scattered Clouds,45,4,-713,506,Outdoor,Grass,Levi's Stadium,Santa Clara,CA,USA,30:59.9,nfl,0
+518,202111703,1,2021,17,1/2/2022 13:00,LAR,32,BAL,3,7,47,FALSE,Final,17935,FOX,38,44,Broken Clouds,37,13,253,-311,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,30:59.3,nfl,0
+519,202111730,1,2021,17,1/2/2022 16:25,DET,11,SEA,30,-9,41.5,FALSE,Final,17934,FOX,36,37,Moderate Rain,30,10,-398,317,Outdoor,Artificial,Lumen Field,Seattle,WA,USA,31:00.0,nfl,0
+520,202111712,1,2021,17,1/2/2022 20:20,MIN,20,GB,12,-12.5,42.5,FALSE,Final,17936,NBC,5,9,Broken Clouds,-2,6,-690,498,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,31:00.1,nfl,0
+521,202111728,1,2021,17,1/3/2022 20:15,CLE,8,PIT,28,1,43.5,FALSE,Final,17937,ESPN,25,27,Overcast Clouds,17,6,-105,-114,Outdoor,Grass,Heinz Field,Pittsburgh,PA,USA,31:00.1,nfl,0
+522,202111802,1,2021,18,1/9/2022 16:25,NO,22,ATL,2,4.5,40,FALSE,Final,17938,FOX,47,50,Overcast Clouds,45,10,177,-212,RetractableDome,Artificial,Mercedes-Benz Stadium,Atlanta,GA,USA,31:00.8,nfl,0
+523,202111803,1,2021,18,1/9/2022 13:00,PIT,28,BAL,3,-3,41,FALSE,F/OT,17948,CBS,35,42,Broken Clouds,34,16,-158,134,Outdoor,Grass,M&T Bank Stadium,Baltimore,MD,USA,31:00.3,nfl,0
+524,202111804,1,2021,18,1/9/2022 16:25,NYJ,24,BUF,4,-16,42,FALSE,Final,17939,CBS,22,22,Light Snow,8,17,-1153,710,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,31:00.9,nfl,0
+525,202111808,1,2021,18,1/9/2022 13:00,CIN,7,CLE,8,-6.5,38,FALSE,Final,17940,FOX,22,22,Few Clouds,7,20,-266,217,Outdoor,Grass,FirstEnergy Stadium,Cleveland,OH,USA,31:00.4,nfl,0
+526,202111811,1,2021,18,1/9/2022 13:00,GB,12,DET,11,4,45,FALSE,Final,17941,FOX,16,17,Clear Sky,2,13,167,-200,Dome,Artificial,Ford Field,Detroit,MI,USA,31:00.5,nfl,0
+527,202111813,1,2021,18,1/9/2022 13:00,TEN,34,HOU,13,11,43,FALSE,Final,17949,CBS,56,60,Overcast Clouds,56,15,425,-576,RetractableDome,Artificial,NRG Stadium,Houston,TX,USA,31:00.5,nfl,0
+528,202111815,1,2021,18,1/9/2022 13:00,IND,14,JAX,15,14,43.5,FALSE,Final,17947,CBS,66,66,Scattered Clouds,66,5,641,-962,Outdoor,Grass,TIAA Bank Field,Jacksonville,FL,USA,31:00.6,nfl,0
+529,202111819,1,2021,18,1/9/2022 16:25,NE,21,MIA,19,6.5,41,FALSE,Final,17942,CBS,74,74,Light Rain,74,8,219,-267,Outdoor,Grass,Hard Rock Stadium,Miami Gardens,FL,USA,31:01.0,nfl,0
+530,202111820,1,2021,18,1/9/2022 13:00,CHI,6,MIN,20,-3.5,45,FALSE,Final,17943,FOX,-4,1,Broken Clouds,-11,6,-187,157,Dome,Artificial,U.S. Bank Stadium,Minneapolis,MN,USA,31:00.7,nfl,0
+531,202111823,1,2021,18,1/9/2022 13:00,WAS,35,NYG,23,6,36,FALSE,Final,17944,FOX,36,39,Clear Sky,31,12,205,-248,Outdoor,Artificial,MetLife Stadium,East Rutherford,NJ,USA,31:00.7,nfl,0
+532,202111826,1,2021,18,1/8/2022 20:15,DAL,9,PHI,26,6,45.5,FALSE,Final,17945,ESPN,24,25,Clear Sky,16,7,215,-257,Outdoor,Grass,Lincoln Financial Field,Philadelphia,PA,USA,31:00.3,nfl,0
+533,202111833,1,2021,18,1/9/2022 16:25,CAR,5,TB,33,-11,42.5,FALSE,Final,17946,CBS,67,69,Clear Sky,67,5,-496,378,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,31:01.0,nfl,0
+534,202111801,1,2021,18,1/9/2022 16:25,SEA,30,ARI,1,-5.5,48.5,FALSE,Final,17953,FOX,59,60,Clear Sky,59,10,-241,199,RetractableDome,Grass,State Farm Stadium,Glendale,AZ,USA,31:00.8,nfl,0
+535,202111810,1,2021,18,1/8/2022 16:30,KC,16,DEN,10,11.5,44.5,FALSE,Final,17950,ESPN,30,32,Broken Clouds,28,4,454,-601,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,31:00.2,nfl,0
+536,202111832,1,2021,18,1/9/2022 16:25,SF,31,LAR,32,-3.5,46.5,FALSE,F/OT,17952,FOX,59,61,Clear Sky,59,6,-180,152,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,31:00.9,nfl,0
+537,202111825,1,2021,18,1/9/2022 20:20,LAC,29,LV,25,3,49,FALSE,F/OT,17951,NBC,48,50,Clear Sky,47,5,148,-175,Dome,Grass,Allegiant Stadium,Las Vegas,NV,USA,31:01.1,nfl,0
+538,202110410,1,2021,4,10/3/2021 16:25,BAL,3,DEN,10,-1,44,FALSE,Final,17742,CBS,61,65,Clear Sky,61,2,-119,-101,Outdoor,Grass,Empower Field at Mile High,Denver,CO,USA,30:49.3,nfl,0
+539,202130107,3,2021,1,1/15/2022 16:30,LV,25,CIN,7,-6,48.5,FALSE,Final,17984,NBC,24,25,Clear Sky,16,7,-265,216,Outdoor,Artificial,Paul Brown Stadium,Cincinnati,OH,USA,20:20.5,nfl,0
+540,202130104,3,2021,1,1/15/2022 20:15,NE,21,BUF,4,-4.5,43,FALSE,Final,17985,CBS,4,8,Few Clouds,-5,4,-213,177,Outdoor,Artificial,Highmark Stadium,Orchard Park,NY,USA,20:20.5,nfl,0
+541,202130133,3,2021,1,1/16/2022 13:00,PHI,26,TB,33,-7,47,FALSE,Final,17981,FOX,59,61,Overcast Clouds,61,21,-329,262,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,20:20.6,nfl,0
+542,202130109,3,2021,1,1/16/2022 16:30,SF,31,DAL,9,-3.5,51,FALSE,Final,17982,CBS,40,47,Clear Sky,40,2,-183,153,RetractableDome,Artificial,AT&T Stadium,Arlington,TX,USA,20:20.6,nfl,0
+543,202130116,3,2021,1,1/16/2022 20:15,PIT,28,KC,16,-12,46.5,FALSE,Final,17986,NBC,32,32,Few Clouds,23,12,-648,470,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,20:20.7,nfl,0
+544,202130132,3,2021,1,1/17/2022 20:15,ARI,1,LAR,32,-3.5,48.5,FALSE,Final,17983,ESPN,59,59,Light Rain,59,3,-177,148,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,20:20.7,nfl,0
+545,202130234,3,2021,2,1/22/2022 16:30,CIN,7,TEN,34,-4,48.5,FALSE,Final,17987,CBS,26,28,Clear Sky,21,4,-199,167,Outdoor,Grass,Nissan Stadium,Nashville,TN,USA,20:20.8,nfl,0
+546,202130212,3,2021,2,1/22/2022 20:15,SF,31,GB,12,-5.5,47.5,FALSE,Final,17988,FOX,10,11,Light Snow,1,6,-246,205,Outdoor,Grass,Lambeau Field,Green Bay,WI,USA,20:20.8,nfl,0
+547,202130216,3,2021,2,1/23/2022 18:30,BUF,4,KC,16,-2,54,FALSE,F/OT,17989,CBS,37,38,Clear Sky,28,14,-132,113,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,20:20.9,nfl,0
+548,202130233,3,2021,2,1/23/2022 15:00,LAR,32,TB,33,-3,48,FALSE,Final,17990,NBC,45,48,Few Clouds,42,6,-145,122,Outdoor,Grass,Raymond James Stadium,Tampa Bay,FL,USA,20:20.8,nfl,0
+549,202130316,3,2021,3,1/30/2022 15:00,CIN,7,KC,16,-7,54.5,FALSE,F/OT,17991,CBS,32,33,Clear Sky,28,7,-316,255,Outdoor,Grass,Arrowhead Stadium,Kansas City,MO,USA,20:20.9,nfl,0
+550,202130332,3,2021,3,1/30/2022 18:30,SF,31,LAR,32,-3.5,45.5,FALSE,Final,17992,FOX,56,59,Clear Sky,56,4,-185,156,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,20:21.0,nfl,0
+551,202130407,3,2021,4,2/13/2022 18:30,LAR,32,CIN,7,4.5,49,FALSE,Final,17994,NBC,69,71,Clear Sky,69,4,176,-192,Dome,Artificial,SoFi Stadium,Inglewood,CA,USA,20:21.0,nfl,0
