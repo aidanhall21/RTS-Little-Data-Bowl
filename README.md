@@ -3,6 +3,7 @@
 This is my submission to the [Run The Sims Little Data Bowl](https://www.runthesims.com/littledatabowl/)
 
 All simulation code and data processing was written and performed in Python with Special Thanks to the Excel Solver tool.
+You should be able to view the video I made explaining my submission [here](https://drive.google.com/file/d/1sn54fqsFhPXf6I1mW50U5lap_ij7mzwg/view?usp=sharing)
 
 ---
 
